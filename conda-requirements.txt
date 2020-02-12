@@ -1,0 +1,24 @@
+# Spatial
+psycopg2
+gdal>=3.0,<4.0
+proj4
+geos
+
+# Processing
+#codar_processing
+dask
+geopandas
+netcdf4
+numba
+numpy
+pandas>=0.25,<1.0
+pygc
+shapely
+simplejson
+xarray
+matplotlib
+cartopy
+
+# Jupyter
+jupyterlab
+ipython

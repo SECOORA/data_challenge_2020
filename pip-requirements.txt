@@ -1,0 +1,1 @@
+git+https://github.com/kwilcox/codar_processing.git@qc-cleanup#egg=codar_processing
