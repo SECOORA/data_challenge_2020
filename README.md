@@ -4,7 +4,7 @@
 
 1. Download a copy of this repository to your computer
 
-2. Install and setup a working `conda` envrionment using the [Installation User Guide](https://conda.io/projects/conda/en/latest/user-guide/index.html) and [Managing environments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) available in the conda.io documentation.
+2. Install and setup a working `conda` environment using the [Installation User Guide](https://conda.io/projects/conda/en/latest/user-guide/index.html) and [Managing environments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) available in the conda.io documentation.
 
 3. Create an environment to run these notebooks
 
