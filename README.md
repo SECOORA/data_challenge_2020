@@ -1,5 +1,7 @@
 # SECOORA Data Challenge 2020
 
+### Example notebooks are found in the `notebooks` directory!
+
 [More information](https://secoora.org/data-challenge/) about the SECOORA Data Challenge
 
 [More information](https://secoora.org/hfradar/) about HF Radar data available in the SECOORA region

@@ -83,7 +83,6 @@ def rads2uv(ur, sur, theta):
 
     # check for zero var (shouldn't this be std?)
     sur[np.isclose(sur, 0)] = 0.001
-
     nu = len(ur)
     ns = len(sur)
     nt = len(theta)
