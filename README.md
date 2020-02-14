@@ -1,5 +1,9 @@
 # SECOORA Data Challenge 2020
 
+[More information](https://secoora.org/data-challenge/) about the SECOORA Data Challenge
+
+[More information](https://secoora.org/hfradar/) about HF Radar data available in the SECOORA region
+
 ## Running the notebooks locally
 
 1. Download a copy of this repository to your computer
